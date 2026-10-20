@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm working on personal python and julia projects.
+I'm working on personal python and julia projects. I like seals.
 <!--
 **davidepisu9723/davidepisu9723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
